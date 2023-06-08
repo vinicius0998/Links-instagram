@@ -16,7 +16,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: url(/assets/bg-mobile-light.jpg);
+  --bg-url: url(./assets/bg-mobile-light.jpg);
   --stroke-coler: rgba(0, 0, 0, 0.5);
   --surface-coler:  rgba(10, 10, 10, 0.151);
   --surface-coler-hover: rgba(0, 0, 0, 0.02);
@@ -170,7 +170,7 @@ footer {
 /* media queries */
 @media (min-width: 700px) {
   :root {
-   --bg-url: url(./assets/bg-desktop.jpg);
+   --bg-url: url(./assets/bg-desktop-dark.jpg);
   }
 
   .light {
