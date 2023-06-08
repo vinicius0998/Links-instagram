@@ -37,7 +37,7 @@ body * {
 
 #container {
   width: 100%;
-  max-width: 588px;
+  max-width: 480px;
   margin: 56px auto 0px;
 }
 
@@ -121,13 +121,13 @@ ul li {
 
   background: var(--surface-coler);
   border: 1px solid var(--stroke-coler);
-  border-radius: 8px;
+  border-radius: 10px;
 
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
 
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 00;
   transition: background 0.2s;
 }
 
